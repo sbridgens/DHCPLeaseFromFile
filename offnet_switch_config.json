@@ -1,0 +1,50 @@
+{ 
+    "Switches": [
+        {
+            "Location": "SomeLocationName",
+            "MdfId" : "SomeMdfId",
+            "L2SIds" : [
+                "BAAEIW",
+                "BAAJMQ",
+                "BAAGRO",
+                "BAAJMO",
+                "BAAFKK",
+                "BAAEMT",
+                "BAAJMP"
+            ]
+        },
+        {
+            "Location": "SomeLocationName",
+            "MdfId" : "SomeMdfId",
+            "L2SIds" : [
+                "BAAEVP",
+                "BAAHPM",
+                "BAACNH",
+                "BAAIPE",
+                "BAAGMY",
+                "BAAHPL",
+                "BAAGIB",
+                "BAAGIA",
+                "BAAGAB",
+                "BAAHTO",
+                "BAAHTU",
+                "BAAHTP"
+            ]
+        },
+        {
+            "Location": "SomeLocationName",
+            "MdfId" : "SomeMdfId",
+            "L2SIds" : [
+                "BAADID",
+                "BAAHTS",
+                "BAAHTQ",
+                "BAAHTR",
+                "BAAHTT",
+                "BAAHPP",
+                "BAAHPN",
+                "BAAHPO",
+                "BAABNJ"
+            ]
+        }
+    ]
+}
